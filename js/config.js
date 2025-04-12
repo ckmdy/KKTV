@@ -7,8 +7,8 @@ const MAX_HISTORY_ITEMS = 5;
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
-    description: '免费在线视频搜索与观看平台',
+    url: 'https://tv.552025.xyz',
+    description: '免费在线视频搜索与观看',
     logo: 'https://images.icon-icons.com/38/PNG/512/retrotv_5520.png',
     version: '1.0.0'
 };
@@ -16,7 +16,7 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     heimuer: {
-        api: 'https://json.heimuer.xyz',
+        api: 'https://json02.heimuer.xyz',
         name: '黑木耳',
         detail: 'https://heimuer.tv'
     },
